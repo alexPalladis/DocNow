@@ -33,7 +33,7 @@ const Register = async ({params : {userId}} : SearchParamProps) => {
       src='/assets/images/register-img.png'
       height={1000}
       width={1000}
-      alt="patient"
+      alt="patient2"
       className="side-img max-w-[390px]"
       />
     </div>
